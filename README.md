@@ -24,7 +24,7 @@
 
 <h3 align="left">My Project</h3>
 <p align="left">
-  <a href="LINK GITHUB"><img src="https://github-readme-stats.vercel.app/api/pin/?username=USER&repo=REPO&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true&show_owner=true&disable_animations=false" /></br>
+  <a href="LINK GITHUB"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xyzyyyy&repo=xyzyyyy&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true&show_owner=true&disable_animations=false" /></br>
 </p>
 
 <h3 align="left">Github Status</h3>

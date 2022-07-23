@@ -1,4 +1,4 @@
-<img src="https://github.com/xyzyyyy/xyzyyyy/main/yan.png" width=100% height=auto>
+<img src="https://github.com/xyzyyyy/xyzyyyy/main/yan.jpg" width=100% height=auto>
 
 <h1 align="center">Rahardiyan Projects</h1>
 <b>You're on the main page of my Github repository, so welcome!</b>
